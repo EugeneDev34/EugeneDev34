@@ -15,11 +15,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
 </div>
 
-
 ###  Языки программирования:
 <div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+</div>
+
+###  Базы данных:
+<div> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp 
 </div>
 
 ###  Работа с кодом:
